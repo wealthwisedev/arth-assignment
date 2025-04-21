@@ -114,14 +114,14 @@ Bonus Features
 
 # 🧪 Evaluation Criteria & Grading
 
-## 🎯 Total Score: **100 Points**
+## 🎯 Total Score: **100 Points** + 10 Bonus
 ```markdown
 | Task                                                                                 | Max Points |
 |--------------------------------------------------------------------------------------|------------|
 | ✅ Implement Mutual Fund Service (mfapi.in integration)                              | 15         |
 | ✅ Create LangGraph-based Agentic AI system with modular graph design                | 25         |
 | ✅ Expose FastAPI endpoints with OpenAPI docs                                        | 15         |
-| ✅ Integrate OpenAI (or mock) for intelligent responses                              | 10         |
+| ✅ Integrate OpenAI for intelligent responses                                        | 15         |
 | ✅ Implement `POST /ai/query` to handle fund-related questions via agents            | 10         |
 | ✅ Unit tests for services and agents using Pytest                                   | 10         |
 | ✅ Clean, scalable code structure following SOLID principles                         | 10         |
