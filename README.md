@@ -133,7 +133,7 @@ Bonus Features
 ```markdown
 | Submission Time              | Bonus Points | Notes                                      |
 |------------------------------|--------------|--------------------------------------------|
-| 📅 Same day (within 24 hrs)  | +30 pts      | Exceptional speed – clean, working version |
+| 📅 Within 2 days             | +30 pts      | Exceptional speed – clean, working version |
 | 📅 Within 3 days             | +20 pts      | Solid turnaround time                      |
 | 📅 Within 7 days             | 0 pts        | Still acceptable, no bonus                 |
 | 🐢 After 7 days              | -40 pts      | Late penalty unless otherwise justified    |
