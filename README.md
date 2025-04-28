@@ -38,12 +38,12 @@ Build a **production-grade**, **scalable FastAPI application** that integrates a
 ```text
 agentic-mfapi-ai/
 ├── app/
-│   ├── agents/                  # LangGraph agents
-│   ├── api/                     # FastAPI routes
-│   ├── services/                # mfapi wrappers
-│   ├── schemas/                 # Pydantic models
-│   ├── core/                    # Configs, LLM client
-│   └── main.py                  # FastAPI entrypoint
+│   ├── agents/                  # LangGraph agents folder
+│   ├── api/                     # FastAPI routes folder
+│   ├── services/                # mfapi wrappers folder
+│   ├── schemas/                 # Pydantic models folder
+│   ├── core/                    # Configs, LLM client folder
+│   └── main.py                  # FastAPI entrypoint folder
 ├── tests/
 ├── README.md
 ├── requirements.txt
