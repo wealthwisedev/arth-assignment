@@ -17,6 +17,7 @@ Build a **production-grade**, **scalable FastAPI application** that integrates a
 - Expose REST endpoints for triggering agent interactions using **FastAPI**
 - Use **OpenAI (or mock)** for LLM-powered answers
 - Ensure **testability**, **extensibility**, and **scalable structure**
+- Follow design patterns: https://refactoring.guru/design-patterns (if needed)
 
 ---
 
